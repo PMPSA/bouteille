@@ -1,0 +1,26 @@
+<annotation>
+  <folder>pins</folder>
+  <filename>37</filename>
+  <path>C:\Users\Nicolas\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\training\reduc\pins\37.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>786</width>
+    <height>1048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>pins</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>335</xmin>
+      <ymin>384</ymin>
+      <xmax>605</xmax>
+      <ymax>782</ymax>
+    </bndbox>
+  </object>
+</annotation>

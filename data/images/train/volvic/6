@@ -1,0 +1,26 @@
+<annotation>
+  <folder>volvic</folder>
+  <filename>6</filename>
+  <path>C:\Users\Nicolas\AppData\Local\Packages\CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc\LocalState\rootfs\home\training\reduc\volvic\6.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>786</width>
+    <height>1048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>volvic</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>327</xmin>
+      <ymin>112</ymin>
+      <xmax>616</xmax>
+      <ymax>864</ymax>
+    </bndbox>
+  </object>
+</annotation>
